@@ -1,16 +1,7 @@
-## Trabalho Semestral - Algoritmos e Estrutura de Dados 2.
+## Trabalho 1 Unidade 1 - Algoritmos e Estrutura de Dados 2.
 
 ### Objetivo
 Este repositório tem como objetivo centralizar todos os trabalhos e projetos desenvolvidos ao longo do semestre para a disciplina de Algoritmos e Estrutura de Dados 2.
-
-### Estrutura do Repositório
-* **README.md:** Arquivo com informações gerais sobre o repositório, incluindo:
-  * Nome completo do aluno
-  * Curso
-  * Disciplina
-  * Breve descrição do projeto
-* **[Pasta para cada atividade]**
-  * Cada atividade (leitura, exercício, projeto) deverá ter sua própria pasta para melhor organização.
 
 ### Atividades
 #### Leitura
