@@ -1,3 +1,7 @@
+## ALUNO: PEDRO VICTOR SOARES FERREIRA
+
+https://youtu.be/6ANIfc9NveQ
+
 # Análise de Mobilidade no Entorno da UFRN - Natal/RN
 
 Este projeto realiza uma análise de mobilidade no entorno da Universidade Federal do Rio Grande do Norte (UFRN), em Natal, RN, com foco em identificar locais estratégicos para a instalação de estações de compartilhamento de bicicletas (dock-stations). Para isso, usamos métricas de centralidade e outras análises de rede aplicadas à malha viária de bairros específicos: Potilândia, UFRN e Mirassol.
