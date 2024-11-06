@@ -1,6 +1,6 @@
 # Análise de Rede da Cidade de Natal-RN
 
-Este projeto implementa uma análise de rede para a cidade de Natal-RN usando as bibliotecas `osmnx` e `networkx`. O objetivo é explorar métricas de rede como comprimento médio do caminho mais curto, diâmetro da rede, coeficiente de aglomeração, entre outras, com o objetivo de entender as características de conectividade na região. Além disso, o projeto inclui a busca do caminho mais curto entre dois pontos específicos na cidade: **da Cidade Jardim até a Escola de Ciências e Tecnologia (ECT)** da UFRN.
+Este projeto implementa uma análise de rede para a cidade de Natal-RN usando as bibliotecas `osmnx` e `networkx`. O objetivo é explorar métricas de rede como comprimento médio do caminho mais curto, diâmetro da rede, coeficiente de aglomeração, entre outras, com o objetivo de entender as características de conectividade na região. Além disso, o projeto inclui a busca do caminho mais curto entre dois pontos específicos na cidade: **do Shopping Cidade Jardim até a Escola de Ciências e Tecnologia (ECT)** da UFRN.
 
 ## Estrutura do Projeto
 
@@ -41,7 +41,7 @@ Este projeto implementa uma análise de rede para a cidade de Natal-RN usando as
 
 ## Resultados e Análise
 * Visualização
-* O grafo de Natal-RN e o caminho mais curto entre os pontos são visualizados, com o trajeto destacado para melhor compreensão.
+* O grafo de Natal-RN e o caminho mais curto entre os pontos (Shopping Cidade Jardim até a Escola de Ciências e Tecnologia (ECT)) são visualizados, com o trajeto destacado para melhor compreensão.
 
 ## Interpretação das Métricas
 - Número de Componentes Conectados: Indica a quantidade de sub-redes na área de estudo.
