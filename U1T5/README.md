@@ -47,3 +47,8 @@ Este projeto realiza uma análise de mobilidade no entorno da Universidade Feder
 
 - **Mapa da Rede com Eigenvector Centrality**: Visualização da rede viária, destacando os nós com alta centralidade de autovetor e os locais sugeridos para dock-stations em vermelho.
 - **Distribuição dos Graus (PDF e CDF)**: Visualizações que mostram a distribuição das conexões dos nós na rede.
+![foto1](foto1.png)
+![foto2](foto2.png)
+![foto3](foto3.png)
+![foto4](foto4.png)
+![foto5](foto5.png)
