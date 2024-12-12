@@ -1,3 +1,4 @@
+https://youtu.be/cX8YN142SfE
 # Desafio 1: Análise de Desempenho do Algoritmo Solver Closest
 
 Este documento descreve a análise de desempenho do algoritmo `solver_closest`, que encontra a menor diferença absoluta entre dois elementos em um vetor. O código foi implementado em Python e avaliado em termos de tempo de execução para vetores de diferentes tamanhos.
