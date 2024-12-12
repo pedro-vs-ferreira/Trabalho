@@ -1,0 +1,5 @@
+Resultados do Solver Closest:
+Tamanho: 1000, Média: 0.000558 s, Intervalo: ±0.000017 s
+Tamanho: 10000, Média: 0.006665 s, Intervalo: ±0.000389 s
+Tamanho: 100000, Média: 0.083636 s, Intervalo: ±0.004345 s
+Tamanho: 1000000, Média: 1.055043 s, Intervalo: ±0.155703 s
