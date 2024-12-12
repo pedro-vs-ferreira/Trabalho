@@ -17,7 +17,3 @@ Os dados completos, incluindo o tamanho do vetor, o tempo médio de execução, 
 ## Conclusões
 
 Observando o gráfico e o arquivo de resultados, pode-se concluir que o tempo de execução do algoritmo `solver_closest` aumenta com o tamanho do vetor, como esperado.  A análise do intervalo de confiança fornece uma medida da incerteza associada às medições de tempo.
-
-## Código
-
-O código Python utilizado para realizar a análise de desempenho está disponível no arquivo principal deste repositório.
