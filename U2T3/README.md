@@ -32,32 +32,32 @@ As rotas são calculadas entre os seguintes pares de origem e destino:
 ## Imagens dos Grafos
 
 ### 1. Minha Casa -> Midway
-![Minha Casa -> Midway](images/grafo1.png)
+![Minha Casa -> Midway](images/grafo1 2.png)
 
 ### 2. Midway -> Casa da Namorada
-![Midway -> Casa da Namorada](images/grafo2.png)
+![Midway -> Casa da Namorada](images/grafo2 2.png)
 
 ### 3. Casa da Namorada -> DCA
-![Casa da Namorada -> DCA](images/grafo3.png)
+![Casa da Namorada -> DCA](images/grafo3 2.png)
 
 ### 4. DCA -> ECT
-![DCA -> ECT](images/grafo4.png)
+![DCA -> ECT](images/grafo4 2.png)
 
 ### 5. ECT -> Casa de Vó
-![ECT -> Casa de Vó](images/grafo5.png)
+![ECT -> Casa de Vó](images/grafo5 2.png)
 
 ### 6. Casa de Vó -> Empresa
-![Casa de Vó -> Vesthosp](images/grafo6.png)
+![Casa de Vó -> Vesthosp](images/grafo6 2.png)
 
 ### 7. Empresa -> Minha Casa
-![Vesthosp -> Minha Casa](images/grafo7.png)
+![Vesthosp -> Minha Casa](images/grafo7 2.png)
 
 ### 8. DCA -> Empresa
-![DCA -> Vesthosp](images/grafo8.png)
+![DCA -> Vesthosp](images/grafo8 2.png)
 
 ### 9. Midway -> ECT
-![Midway -> ECT](images/grafo9.png)
+![Midway -> ECT](images/grafo9 2.png)
 
 ### 10. Minha Casa -> Casa de Vó
-![Minha Casa -> Casa de Vó](images/grafo10.png)
+![Minha Casa -> Casa de Vó](images/grafo10 2.png)
 
