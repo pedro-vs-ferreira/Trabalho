@@ -1,3 +1,4 @@
+https://youtu.be/YLKA73azUT8
 # Análise de Conectividade entre Delegacias de Polícia em Natal
 
 Este projeto analisa a conectividade entre as delegacias de polícia da cidade de Natal, Rio Grande do Norte, utilizando a biblioteca OSMnx para obter dados do OpenStreetMap e calcular a árvore geradora mínima (MST) entre os pontos.
