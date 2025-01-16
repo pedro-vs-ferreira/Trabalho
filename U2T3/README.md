@@ -1,3 +1,4 @@
+https://youtube.com/shorts/kDPoMBes2UI?si=7AYkmwh9w9VT47vO
 # Algoritmo de Dijkstra Aplicado a Pontos de Interesse em Natal-RN
 
 Este projeto implementa o algoritmo de Dijkstra para calcular as rotas mais curtas entre diversos pontos de interesse na cidade de Natal-RN. Utiliza a biblioteca `OSMnx` para obter e visualizar o grafo da rede viária e `networkx` para a execução do algoritmo.
